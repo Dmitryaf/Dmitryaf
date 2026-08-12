@@ -10,11 +10,13 @@ I build user-facing applications and engineering tools with an emphasis on clear
 
 ## Selected work
 
-[![Trajectory weekly reflection](https://github.com/Dmitryaf/trajectory-showcase/blob/main/docs/screenshots/trajectory-week-review.png?raw=true)](https://github.com/Dmitryaf/trajectory-showcase)
+### [Trajectory](https://github.com/Dmitryaf/trajectory)
 
-### [Trajectory](https://github.com/Dmitryaf/trajectory-showcase)
+*Public local-first edition of a privately developed product.*
 
 A local-first reflection and personal analytics product that turns daily observations into careful weekly and longer-term decisions without treating correlation as causation.
+
+[![Trajectory weekly reflection interface](https://raw.githubusercontent.com/Dmitryaf/trajectory/main/docs/screenshots/trajectory-profile-cover.png)](https://github.com/Dmitryaf/trajectory)
 
 `Vue 3` · `TypeScript` · `Pinia` · `Dexie` · `ECharts` · `PWA`
 
