@@ -10,11 +10,13 @@ I build user-facing applications and engineering tools with an emphasis on clear
 
 ## Selected work
 
-### Trajectory
+[![Trajectory weekly reflection](https://github.com/Dmitryaf/trajectory-showcase/blob/main/docs/screenshots/trajectory-week-review.png?raw=true)](https://github.com/Dmitryaf/trajectory-showcase)
 
-A private product project that helps people turn short daily records into careful weekly and monthly decisions without treating correlation as causation.
+### [Trajectory](https://github.com/Dmitryaf/trajectory-showcase)
 
-`Vue 3` · `TypeScript` · `PWA` · `IndexedDB` · `Supabase` · `product architecture`
+A local-first reflection and personal analytics product that turns daily observations into careful weekly and longer-term decisions without treating correlation as causation.
+
+`Vue 3` · `TypeScript` · `Pinia` · `Dexie` · `ECharts` · `PWA`
 
 ### [AI Rules Hub](https://github.com/Dmitryaf/ai-rules-hub)
 
