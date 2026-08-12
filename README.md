@@ -1,4 +1,4 @@
-# Dmitry
+# Dmitry Afonasenko
 
 Frontend Developer focused on product development, frontend architecture, and AI-assisted engineering.
 
