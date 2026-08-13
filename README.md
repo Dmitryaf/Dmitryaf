@@ -1,8 +1,8 @@
 # Dmitry Afonasenko
 
-Frontend Developer building Vue and TypeScript products end to end: product decisions, frontend architecture, testing, and delivery.
+Frontend developer focused on Vue and TypeScript. I build products from early decisions through tested releases.
 
-I build user-facing applications and engineering tools with an emphasis on clear product decisions, maintainable boundaries, and verifiable behavior. My strongest experience is in TypeScript and Vue; I also work with JavaScript, React, and Node.js when they fit the problem.
+I build web applications and developer tools. I care about clear user flows, code that is easy to change, and behavior covered by tests. I work mainly with TypeScript and Vue, and also use JavaScript, React, and Node.js when they fit the task.
 
 ## Core stack
 
@@ -14,7 +14,7 @@ I build user-facing applications and engineering tools with an emphasis on clear
 
 *Interactive public showcase of a privately developed product.*
 
-A local-first reflection and personal analytics product that turns daily observations into careful weekly and longer-term decisions without treating correlation as causation.
+An app for short daily notes, weekly reviews, and longer-term history. It keeps gaps in the data visible and helps users decide what to continue or change.
 
 [![Trajectory weekly reflection interface](https://raw.githubusercontent.com/Dmitryaf/trajectory/main/docs/screenshots/trajectory-profile-cover.png)](https://github.com/Dmitryaf/trajectory)
 
@@ -22,20 +22,20 @@ A local-first reflection and personal analytics product that turns daily observa
 
 ### [AI Rules Hub](https://github.com/Dmitryaf/ai-rules-hub)
 
-A versioned rules system for applying shared coding-agent guidance to different repositories while preserving project-specific constraints.
+A local tool for sharing coding-agent rules between repositories without overwriting each project's own rules.
 
-`PowerShell` · `Git` · `deterministic synchronization` · `integrity checks`
+`PowerShell` · `Git` · `safe update previews` · `file hash checks`
 
 ### [BAR Replay Coach](https://github.com/Dmitryaf/BAR-Replay-Coach)
 
-An experimental Beyond All Reason replay analyzer that turns low-level match events into one focused training recommendation.
+An experimental Beyond All Reason replay analyzer that finds confirmed problems and suggests one goal for the next practice match.
 
-`Lua` · `replay telemetry` · `event aggregation` · `bounded MVP`
+`Lua` · `Recoil` · `replay analysis` · `Lua tests`
 
 ## Additional project
 
 ### [TaskFlow](https://github.com/Dmitryaf/task-flow)
 
-A compact full-stack task manager with authenticated APIs, runtime validation, a Vue kanban interface, and frontend/backend tests.
+A small full-stack task manager with accounts, a Vue kanban board, validated API input, and frontend and backend tests.
 
 `Vue 3` · `TypeScript` · `Pinia` · `Node.js` · `Express`
