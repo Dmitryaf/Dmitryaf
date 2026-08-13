@@ -1,18 +1,18 @@
 # Dmitry Afonasenko
 
-Frontend Developer focused on product development, frontend architecture, and AI-assisted engineering.
+Frontend Developer building Vue and TypeScript products end to end: product decisions, frontend architecture, testing, and delivery.
 
 I build user-facing applications and engineering tools with an emphasis on clear product decisions, maintainable boundaries, and verifiable behavior. My strongest experience is in TypeScript and Vue; I also work with JavaScript, React, and Node.js when they fit the problem.
 
 ## Core stack
 
-`TypeScript` · `JavaScript` · `Vue 3` · `React` · `Node.js`
+`TypeScript` · `JavaScript` · `Vue 3` · `React` · `Node.js` · `Vitest` · `Playwright`
 
 ## Selected work
 
 ### [Trajectory](https://github.com/Dmitryaf/trajectory)
 
-*Public local-first edition of a privately developed product.*
+*Interactive public showcase of a privately developed product.*
 
 A local-first reflection and personal analytics product that turns daily observations into careful weekly and longer-term decisions without treating correlation as causation.
 
@@ -39,7 +39,3 @@ An experimental Beyond All Reason replay analyzer that turns low-level match eve
 A compact full-stack task manager with authenticated APIs, runtime validation, a Vue kanban interface, and frontend/backend tests.
 
 `Vue 3` · `TypeScript` · `Pinia` · `Node.js` · `Express`
-
-## Contact
-
-[GitHub](https://github.com/Dmitryaf)
