@@ -12,9 +12,11 @@ I build web applications and developer tools. I care about clear user flows, cod
 
 ### [Trajectory](https://github.com/Dmitryaf/trajectory)
 
-*Interactive public showcase of a privately developed product.*
+_Interactive public showcase of a privately developed product._
 
 An app for short daily notes, weekly reviews, and longer-term history. It keeps gaps in the data visible and helps users decide what to continue or change.
+
+**[Open the live demo](https://dmitryaf.github.io/trajectory/)**
 
 [![Trajectory weekly reflection interface](https://raw.githubusercontent.com/Dmitryaf/trajectory/main/docs/screenshots/trajectory-profile-cover.png)](https://github.com/Dmitryaf/trajectory)
 
