@@ -18,7 +18,7 @@ Trajectory is a reflection and personal analytics product that helps turn short 
 
 **[Open the interactive demo](https://dmitryaf.github.io/trajectory/)**
 
-![Trajectory weekly reflection](docs/screenshots/trajectory-week-review.png)
+[![Trajectory weekly reflection interface](https://github.com/Dmitryaf/trajectory/blob/main/docs/screenshots/trajectory-profile-cover.png?raw=true)](https://github.com/Dmitryaf/trajectory)
 
 **Vue 3 · TypeScript · Pinia · Dexie · ECharts · PWA**
 
