@@ -10,17 +10,19 @@ I build web applications and developer tools. I care about clear user flows, cod
 
 ## Selected work
 
-### [Trajectory](https://github.com/Dmitryaf/trajectory)
+# Trajectory
 
-_Interactive public showcase of a privately developed product._
+Trajectory is a reflection and personal analytics product that helps turn short daily observations into careful weekly and longer-term decisions without treating correlation as causation.
 
-An app for short daily notes, weekly reviews, and longer-term history. It keeps gaps in the data visible and helps users decide what to continue or change.
+> **About this public edition:** This repository contains an interactive demo edition of Trajectory. It uses synthetic data, stores everything locally in IndexedDB, and requires no account. The production product is developed separately and is currently in closed beta with invite-only registration.
 
-**[Open the live demo](https://dmitryaf.github.io/trajectory/)**
+**[Open the interactive demo](https://dmitryaf.github.io/trajectory/)**
 
-[![Trajectory weekly reflection interface](https://raw.githubusercontent.com/Dmitryaf/trajectory/main/docs/screenshots/trajectory-profile-cover.png)](https://github.com/Dmitryaf/trajectory)
+![Trajectory weekly reflection](docs/screenshots/trajectory-week-review.png)
 
-`Vue 3` · `TypeScript` · `Pinia` · `Dexie` · `ECharts` · `PWA`
+**Vue 3 · TypeScript · Pinia · Dexie · ECharts · PWA**
+
+The core flow stays intentionally small: record what mattered today, review a completed week, inspect longer-term patterns, and choose a useful next step. Every field is optional, and incomplete data remains visible rather than being filled with assumptions.
 
 ### [AI Rules Hub](https://github.com/Dmitryaf/ai-rules-hub)
 
