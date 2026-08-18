@@ -10,7 +10,7 @@ I build web applications and developer tools. I care about clear user flows, cod
 
 ## Selected work
 
-# Trajectory
+### [Trajectory](https://github.com/Dmitryaf/trajectory)
 
 Trajectory is a reflection and personal analytics product that helps turn short daily observations into careful weekly and longer-term decisions without treating correlation as causation.
 
