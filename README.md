@@ -43,3 +43,7 @@ An experimental Beyond All Reason replay analyzer that finds confirmed problems 
 A small full-stack task manager with accounts, a Vue kanban board, validated API input, and frontend and backend tests.
 
 `Vue 3` · `TypeScript` · `Pinia` · `Node.js` · `Express`
+
+## Contact
+
+Telegram: https://t.me/dmitry_ako
