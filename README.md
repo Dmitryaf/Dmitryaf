@@ -6,7 +6,7 @@ I build web applications and developer tools. I care about clear user flows, cod
 
 ## Core stack
 
-`TypeScript` · `JavaScript` · `Vue 3` · `React` · `Node.js` · `Vitest` · `Playwright`
+`TypeScript` · `JavaScript` · `Vue 3` · `Node.js` · `Vitest` · `Playwright`
 
 ## Selected work
 
