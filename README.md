@@ -24,13 +24,13 @@ Trajectory is a reflection and personal analytics product that helps turn short 
 
 The core flow stays intentionally small: record what mattered today, review a completed week, inspect longer-term patterns, and choose a useful next step. Every field is optional, and incomplete data remains visible rather than being filled with assumptions.
 
-### [AI Rules Hub](https://github.com/Dmitryaf/ai-rules-hub)
+### [ai-rules-hub](https://github.com/Dmitryaf/ai-rules-hub)
 
 A local tool for sharing coding-agent rules between repositories without overwriting each project's own rules.
 
 `PowerShell` · `Git` · `safe update previews` · `file hash checks`
 
-### [BAR Replay Coach](https://github.com/Dmitryaf/BAR-Replay-Coach)
+### [bar-replay-coach](https://github.com/Dmitryaf/bar-replay-coach)
 
 An experimental Beyond All Reason replay analyzer that finds confirmed problems and suggests one goal for the next practice match.
 
