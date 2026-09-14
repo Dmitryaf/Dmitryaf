@@ -1,49 +1,62 @@
 # Dmitry Afonasenko
 
-Frontend developer focused on Vue and TypeScript. I build products from early decisions through tested releases.
+Frontend developer with 5+ years of commercial experience, focused on Vue and TypeScript.
 
-I build web applications and developer tools. I care about clear user flows, code that is easy to change, and behavior covered by tests. I work mainly with TypeScript and Vue, and also use JavaScript, React, and Node.js when they fit the task.
+I take ownership of frontend modules from requirements and estimation through release. My experience includes complex business logic, architecture decisions, testing, and code review.
 
 ## Core stack
 
-`TypeScript` · `JavaScript` · `Vue 3` · `Node.js` · `Vitest` · `Playwright`
+**TypeScript · Vue · JavaScript · Node.js · Vitest · Playwright**
 
 ## Selected work
 
 ### [Trajectory](https://github.com/Dmitryaf/trajectory)
 
-Trajectory is a reflection and personal analytics product that helps turn short daily observations into careful weekly and longer-term decisions without treating correlation as causation.
+A web application for recording everyday life and reviewing weeks and months as a whole. Users record what matters to them and look back at changes over time. The app does not score days or present coincidences as proven causes.
 
-> **About this public edition:** This repository contains an interactive demo edition of Trajectory. It uses synthetic data, stores everything locally in IndexedDB, and requires no account. The production product is developed separately and is currently in closed beta with invite-only registration.
+The public repository demonstrates the core flows with synthetic data and no account required. The main application is developed separately.
 
 **[Open the interactive demo](https://dmitryaf.github.io/trajectory/)**
 
 [![Trajectory weekly reflection interface](https://github.com/Dmitryaf/trajectory/blob/main/docs/screenshots/trajectory-profile-cover.png?raw=true)](https://github.com/Dmitryaf/trajectory)
 
-**Vue 3 · TypeScript · Pinia · Dexie · ECharts · PWA**
+**Vue 3 · TypeScript · Pinia · IndexedDB / Dexie · ECharts · PWA · Vitest · Playwright**
 
-The core flow stays intentionally small: record what mattered today, review a completed week, inspect longer-term patterns, and choose a useful next step. Every field is optional, and incomplete data remains visible rather than being filled with assumptions.
+The main application adds authentication and cloud synchronization. Edits are saved on the device and can be made offline; conflicting versions are kept for the user to resolve. It also supports data export, account deletion, and consent controls for optional usage telemetry.
 
-### [ai-rules-hub](https://github.com/Dmitryaf/ai-rules-hub)
+### [Inbox Point](https://github.com/Dmitryaf/inbox-point)
 
-A local tool for sharing coding-agent rules between repositories without overwriting each project's own rules.
+A self-hosted service that brings customer text conversations from Telegram and VK into a Telegram workspace for operators. Configured information sections answer common questions. When a person needs help, an operator replies in a dedicated topic in the operator group, and the response returns to the original messenger. Later requests reuse the customer's topic.
 
-`PowerShell` · `Git` · `safe update previews` · `file hash checks`
+[![Inbox Point emergency web inbox with a VK conversation and an operator reply draft](assets/inbox-point-overview.png)](https://github.com/Dmitryaf/inbox-point)
 
-### [bar-replay-coach](https://github.com/Dmitryaf/bar-replay-coach)
+_Emergency web inbox, used when the Telegram operator group is unavailable. See [content management](assets/inbox-point-content.png) and [operations monitoring](assets/inbox-point-operations.png)._
 
-An experimental Beyond All Reason replay analyzer that finds confirmed problems and suggests one goal for the next practice match.
+<details>
+<summary>Customer menus in Telegram and VK</summary>
 
-`Lua` · `Recoil` · `replay analysis` · `Lua tests`
+**Telegram — starting a question**
 
-## Additional project
+![Inbox Point in Telegram: the customer selects Ask a question and receives a prompt to write their question](assets/inbox-point-telegram-question.png)
 
-### [TaskFlow](https://github.com/Dmitryaf/task-flow)
+**VK — information and contact menu**
 
-A small full-stack task manager with accounts, a Vue kanban board, validated API input, and frontend and backend tests.
+![Inbox Point in VK: buttons for schedule, prices, address, frequently asked questions, and contacting an operator](assets/inbox-point-vk-menu.png)
 
-`Vue 3` · `TypeScript` · `Pinia` · `Node.js` · `Express`
+</details>
+
+**TypeScript · Node.js · Fastify · SQLite · Vue 3 · Vitest · Playwright**
+
+The Vue administration UI manages schedules, prices, FAQs, and custom sections. SQLite keeps delivery state across restarts. Retries are bounded, duplicate events are ignored, and uncertain outcomes require review. Monitoring, backups, and an emergency web inbox support a separate installation for each organization.
+
+### [Agent Engineering Kit](https://github.com/Dmitryaf/agent-engineering-kit)
+
+A toolkit for keeping coding-agent instructions consistent across repositories. Shared engineering rules are selected for each project and task, with updates previewed before applying and project-specific instructions preserved.
+
+**PowerShell · Git · JSON**
+
+The rules have been refined through recurring problems encountered while developing Trajectory and Inbox Point. Evaluation cases help check agent behavior, including staying within scope, preserving local changes, and handling interrupted operations.
 
 ## Contact
 
-Telegram: https://t.me/dmitry_ako
+[Telegram · @dmitry_ako](https://t.me/dmitry_ako)
