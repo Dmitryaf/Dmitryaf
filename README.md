@@ -28,9 +28,9 @@ The main application adds authentication and cloud synchronization. Edits are sa
 
 A self-hosted service that brings customer text conversations from Telegram and VK into a Telegram workspace for operators. Configured information sections answer common questions. When a person needs help, an operator replies in a dedicated topic in the operator group, and the response returns to the original messenger. Later requests reuse the customer's topic.
 
-[![Inbox Point emergency web inbox with a VK conversation and an operator reply draft](assets/inbox-point-overview.png)](https://github.com/Dmitryaf/inbox-point)
+[![Inbox Point administration interface for managing customer responses](assets/inbox-point-content.png)](https://github.com/Dmitryaf/inbox-point)
 
-_Emergency web inbox, used when the Telegram operator group is unavailable. See [content management](assets/inbox-point-content.png) and [operations monitoring](assets/inbox-point-operations.png)._
+_Administration interface for schedules, prices, addresses, FAQs, and custom sections. See the [emergency web inbox](assets/inbox-point-overview.png) and [operations monitoring](assets/inbox-point-operations.png)._
 
 <details>
 <summary>Customer menus in Telegram and VK</summary>
