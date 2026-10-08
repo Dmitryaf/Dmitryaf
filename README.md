@@ -1,62 +1,49 @@
 # Dmitry Afonasenko
 
-Frontend developer with 5+ years of commercial experience, focused on Vue and TypeScript.
+I'm a frontend developer working mostly with Vue and TypeScript.
 
-I take ownership of frontend modules from requirements and estimation through release. My experience includes complex business logic, architecture decisions, testing, and code review.
+I build web applications and tools for managing projects and working with AI coding agents.
 
-## Core stack
+## Applications
 
-**TypeScript · Vue · JavaScript · Node.js · Vitest · Playwright**
+### Trajectory
 
-## Selected work
+A personal journal for daily notes, weekly and monthly reviews, and exploring changes over time. It works offline and syncs records across devices.
 
-### [Trajectory](https://github.com/Dmitryaf/trajectory)
+[Open the app](https://trajectory-life.ru) · [Source code](https://github.com/Dmitryaf/trajectory-life)
 
-A web application for recording everyday life and reviewing weeks and months as a whole. Users record what matters to them and look back at changes over time. The app does not score days or present coincidences as proven causes.
+<a href="assets/trajectory-today.webp">
+  <img src="assets/trajectory-today.webp" alt="Trajectory daily journal with a day note, weekly context, and optional fields for sleep and wellbeing" width="680">
+</a>
 
-The public repository demonstrates the core flows with synthetic data and no account required. The main application is developed separately.
+Vue 3 · TypeScript · Pinia · Dexie · Supabase
 
-**[Open the interactive demo](https://dmitryaf.github.io/trajectory/)**
+### Inbox Point
 
-[![Trajectory weekly reflection interface](https://github.com/Dmitryaf/trajectory/blob/main/docs/screenshots/trajectory-profile-cover.png?raw=true)](https://github.com/Dmitryaf/trajectory)
+A customer messaging service. Customers write through Telegram or VK, staff reply in Telegram, and answers return to the original conversation. A web interface lets staff manage schedules, prices, and FAQs, and check the service's status.
 
-**Vue 3 · TypeScript · Pinia · IndexedDB / Dexie · ECharts · PWA · Vitest · Playwright**
+[Source code](https://github.com/Dmitryaf/inbox-point)
 
-The main application adds authentication and cloud synchronization. Edits are saved on the device and can be made offline; conflicting versions are kept for the user to resolve. It also supports data export, account deletion, and consent controls for optional usage telemetry.
+<a href="assets/inbox-point-content.png">
+  <img src="assets/inbox-point-content.png" alt="Inbox Point schedule editor beside a live preview of the answers customers see in Telegram and VK" width="680">
+</a>
 
-### [Inbox Point](https://github.com/Dmitryaf/inbox-point)
+Vue 3 · TypeScript · Node.js · Fastify · SQLite
 
-A self-hosted service that brings customer text conversations from Telegram and VK into a Telegram workspace for operators. Configured information sections answer common questions. When a person needs help, an operator replies in a dedicated topic in the operator group, and the response returns to the original messenger. Later requests reuse the customer's topic.
+## Development Tools
 
-[![Inbox Point administration interface for managing customer responses](assets/inbox-point-content.png)](https://github.com/Dmitryaf/inbox-point)
+### [Control Center](https://github.com/Dmitryaf/control-center)
 
-_Administration interface for schedules, prices, addresses, FAQs, and custom sections. See the [emergency web inbox](assets/inbox-point-overview.png) and [operations monitoring](assets/inbox-point-operations.png)._
+A local app for managing projects, tasks, ideas, and hypothesis checks in one place.
 
-<details>
-<summary>Customer menus in Telegram and VK</summary>
-
-**Telegram — starting a question**
-
-![Inbox Point in Telegram: the customer selects Ask a question and receives a prompt to write their question](assets/inbox-point-telegram-question.png)
-
-**VK — information and contact menu**
-
-![Inbox Point in VK: buttons for schedule, prices, address, frequently asked questions, and contacting an operator](assets/inbox-point-vk-menu.png)
-
-</details>
-
-**TypeScript · Node.js · Fastify · SQLite · Vue 3 · Vitest · Playwright**
-
-The Vue administration UI manages schedules, prices, FAQs, and custom sections. SQLite keeps delivery state across restarts. Retries are bounded, duplicate events are ignored, and uncertain outcomes require review. Monitoring, backups, and an emergency web inbox support a separate installation for each organization.
+Vue 3 · TypeScript · Node.js · SQLite
 
 ### [Agent Engineering Kit](https://github.com/Dmitryaf/agent-engineering-kit)
 
-A toolkit for keeping coding-agent instructions consistent across repositories. Shared engineering rules are selected for each project and task, with updates previewed before applying and project-specific instructions preserved.
+A set of rules and tools for working with AI coding agents across repositories. It combines shared engineering rules with project-specific instructions and previews updates before they are applied.
 
-**PowerShell · Git · JSON**
-
-The rules have been refined through recurring problems encountered while developing Trajectory and Inbox Point. Evaluation cases help check agent behavior, including staying within scope, preserving local changes, and handling interrupted operations.
+PowerShell · Git
 
 ## Contact
 
-[Telegram · @dmitry_ako](https://t.me/dmitry_ako)
+[Telegram · @dmitry_tbp](https://t.me/dmitry_tbp)
