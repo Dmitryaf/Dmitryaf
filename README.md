@@ -32,12 +32,6 @@ Vue 3 · TypeScript · Node.js · Fastify · SQLite
 
 ## Development Tools
 
-### [Control Center](https://github.com/Dmitryaf/control-center)
-
-A local app for managing projects, tasks, ideas, and hypothesis checks in one place.
-
-Vue 3 · TypeScript · Node.js · SQLite
-
 ### [Agent Engineering Kit](https://github.com/Dmitryaf/agent-engineering-kit)
 
 A set of rules and tools for working with AI coding agents across repositories. It combines shared engineering rules with project-specific instructions and previews updates before they are applied.
