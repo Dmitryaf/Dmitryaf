@@ -25,10 +25,10 @@ A customer messaging service. Customers write through Telegram or VK, staff repl
 [Source code](https://github.com/Dmitryaf/inbox-point)
 
 <a href="assets/inbox-point-content.png">
-  <img src="assets/inbox-point-content.png" alt="Inbox Point schedule editor beside a live preview of the answers customers see in Telegram and VK" width="680">
+  <img src="assets/inbox-point-content.png" alt="Inbox Point content editor for customer answers in Telegram and VK" width="680">
 </a>
 
-Vue 3 · TypeScript · Node.js · Fastify · SQLite
+React · TypeScript · Node.js · Fastify · SQLite
 
 ## Development Tools
 
