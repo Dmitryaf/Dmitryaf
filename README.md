@@ -1,6 +1,6 @@
 # Dmitry Afonasenko
 
-I'm a frontend developer working mostly with Vue and TypeScript.
+I'm a frontend developer working with Vue, React, and TypeScript.
 
 ## Applications
 
@@ -33,6 +33,16 @@ React · TypeScript · Node.js · Fastify · SQLite
 A local app for tracking projects, tasks, decisions, and weekly or monthly reviews.
 
 [Source code](https://github.com/Dmitryaf/control-center)
+
+<a href="assets/control-center-overview.png">
+  <img src="assets/control-center-overview.png" alt="Control Center overview with project summaries, current tasks, and recent results" width="680">
+</a>
+
+<a href="assets/control-center-project.png">
+  <img src="assets/control-center-project.png" alt="Control Center project page with tasks, history, and a weekly review" width="680">
+</a>
+
+The screenshots use demonstration data.
 
 ## Development Tools
 
