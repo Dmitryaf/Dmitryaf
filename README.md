@@ -2,8 +2,6 @@
 
 I'm a frontend developer working mostly with Vue and TypeScript.
 
-I build web applications and tools for managing projects and working with AI coding agents.
-
 ## Applications
 
 ### Trajectory
@@ -30,13 +28,19 @@ A customer messaging service. Customers write through Telegram or VK, staff repl
 
 React · TypeScript · Node.js · Fastify · SQLite
 
+### Control Center
+
+A local app for tracking projects, tasks, decisions, and weekly or monthly reviews. Project notes and history stay on your computer.
+
+[Source code](https://github.com/Dmitryaf/control-center)
+
 ## Development Tools
 
 ### [Agent Engineering Kit](https://github.com/Dmitryaf/agent-engineering-kit)
 
-A set of rules and tools for working with AI coding agents across repositories. It combines shared engineering rules with project-specific instructions and previews updates before they are applied.
+Engineering guidelines and focused skills for working with AI coding agents. Covers code changes, data safety, service reliability, user interfaces, and parallel work.
 
-PowerShell · Git
+Markdown · AGENTS.md · Skills
 
 ## Contact
 
