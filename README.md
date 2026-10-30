@@ -30,7 +30,7 @@ React · TypeScript · Node.js · Fastify · SQLite
 
 ### Control Center
 
-A local app for tracking projects, tasks, decisions, and weekly or monthly reviews. Project notes and history stay on your computer.
+A local app for tracking projects, tasks, decisions, and weekly or monthly reviews.
 
 [Source code](https://github.com/Dmitryaf/control-center)
 
