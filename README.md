@@ -42,14 +42,6 @@ A local app for tracking projects, tasks, decisions, and weekly or monthly revie
   <img src="assets/control-center-task.png" alt="Control Center task editor for detecting overlapping shifts" width="680">
 </a>
 
-## Development Tools
-
-### [Agent Engineering Kit](https://github.com/Dmitryaf/agent-engineering-kit)
-
-Engineering guidelines and focused skills for working with AI coding agents. Covers code changes, data safety, service reliability, user interfaces, and parallel work.
-
-Markdown · AGENTS.md · Skills
-
 ## Contact
 
 [Telegram · @dmitry_tbp](https://t.me/dmitry_tbp)
