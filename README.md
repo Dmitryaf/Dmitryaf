@@ -35,11 +35,11 @@ A local app for tracking projects, tasks, decisions, and weekly or monthly revie
 [Source code](https://github.com/Dmitryaf/control-center)
 
 <a href="assets/control-center-projects.png">
-  <img src="assets/control-center-projects.png" alt="Control Center projects with an equipment catalogue and a shift planner" width="680">
+  <img src="assets/control-center-projects.png" alt="Control Center project catalogue with equipment and shift-planning projects" width="680">
 </a>
 
 <a href="assets/control-center-task.png">
-  <img src="assets/control-center-task.png" alt="Control Center task editor for detecting overlapping shifts" width="680">
+  <img src="assets/control-center-task.png" alt="Control Center compact task list grouped by project" width="680">
 </a>
 
 ## Contact
