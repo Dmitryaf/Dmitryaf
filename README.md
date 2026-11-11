@@ -34,8 +34,8 @@ A self-hosted app for frontend interview prep. Run mock interviews, work through
 
 [Source code](https://github.com/Dmitryaf/frontend-lab)
 
-<a href="https://github.com/Dmitryaf/frontend-lab/blob/main/assets/screenshots/interview.png">
-  <img src="https://raw.githubusercontent.com/Dmitryaf/frontend-lab/main/assets/screenshots/interview.png" alt="Frontend Lab mock interview screen with coding, code review, and design options" width="680">
+<a href="assets/frontend-lab-interview.gif">
+  <img src="assets/frontend-lab-interview.gif" alt="Frontend Lab mock interview showing answer review, a partial rating, and the saved question in the review list" width="680">
 </a>
 
 Nuxt 4 · Vue 3 · TypeScript · Pinia · SQLite
