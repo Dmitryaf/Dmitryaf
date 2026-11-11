@@ -42,7 +42,7 @@ Nuxt 4 · Vue 3 · TypeScript · Pinia · SQLite
 
 ### Control Center
 
-A local app for tracking projects, tasks, and decisions. Review a week across several projects by seeing what was completed, which decisions were made, and what still needs attention.
+A local app for projects, tasks, decisions, and weekly or monthly reviews. It keeps work history and supports project discussions with Codex, explicit proposal acceptance, and optional review schedules.
 
 [Source code](https://github.com/Dmitryaf/control-center)
 
