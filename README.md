@@ -54,6 +54,8 @@ A local app for tracking projects, tasks, decisions, and weekly or monthly revie
   <img src="assets/control-center-task.png" alt="Control Center compact task list grouped by project" width="680">
 </a>
 
+React · TypeScript · Node.js · Express · SQLite
+
 ## Contact
 
 [Telegram · @dmitry_tbp](https://t.me/dmitry_tbp)
