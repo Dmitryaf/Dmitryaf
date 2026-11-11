@@ -1,7 +1,5 @@
 # Dmitry Afonasenko
 
-I'm a frontend developer working with Vue, React, and TypeScript.
-
 ## Applications
 
 ### Trajectory
