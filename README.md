@@ -28,6 +28,18 @@ A customer messaging service. Customers write through Telegram or VK, staff repl
 
 React · TypeScript · Node.js · Fastify · SQLite
 
+### Frontend Lab
+
+A self-hosted app for frontend interview prep. Run mock interviews, work through coding and code review exercises, and revisit questions you found difficult. You can also add your own Markdown notes.
+
+[Source code](https://github.com/Dmitryaf/frontend-lab)
+
+<a href="https://github.com/Dmitryaf/frontend-lab/blob/main/assets/screenshots/interview.png">
+  <img src="https://raw.githubusercontent.com/Dmitryaf/frontend-lab/main/assets/screenshots/interview.png" alt="Frontend Lab mock interview screen with coding, code review, and design options" width="680">
+</a>
+
+Nuxt 4 · Vue 3 · TypeScript · Pinia · SQLite
+
 ### Control Center
 
 A local app for tracking projects, tasks, decisions, and weekly or monthly reviews.
