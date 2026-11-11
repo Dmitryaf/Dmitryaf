@@ -1,5 +1,7 @@
 # Dmitry Afonasenko
 
+[Telegram · @dmitry_tbp](https://t.me/dmitry_tbp)
+
 ## Applications
 
 ### Trajectory
@@ -40,7 +42,7 @@ Nuxt 4 · Vue 3 · TypeScript · Pinia · SQLite
 
 ### Control Center
 
-A local app for tracking projects, tasks, decisions, and weekly or monthly reviews.
+A local app for tracking projects, tasks, and decisions. Review a week across several projects by seeing what was completed, which decisions were made, and what still needs attention.
 
 [Source code](https://github.com/Dmitryaf/control-center)
 
@@ -53,7 +55,3 @@ A local app for tracking projects, tasks, decisions, and weekly or monthly revie
 </a>
 
 React · TypeScript · Node.js · Express · SQLite
-
-## Contact
-
-[Telegram · @dmitry_tbp](https://t.me/dmitry_tbp)
