@@ -30,13 +30,26 @@ React · TypeScript · Node.js · Fastify · SQLite
 
 ### Prep Lab
 
-Interview preparation built around your own projects and study materials. Create focused study programs, run mock interviews, practice coding, and explore project architecture through interactive maps. The built-in collection covers frontend topics; your own materials can cover other fields.
+Interview preparation built around your projects and study materials. Create focused study programs, run mock interviews, practice coding and code review, revisit difficult questions, and explore project architecture through interactive maps. The built-in collection covers frontend, backend, QA, infrastructure, data, and other professional tracks.
 
-[Source code](https://github.com/Dmitryaf/prep-lab)
+A unified dark interface adapts to desktop and mobile, with shared navigation, search, and reading views for notes and code.
 
-<a href="assets/prep-lab-showcase.gif">
-  <img src="assets/prep-lab-showcase.gif" alt="Prep Lab intensive study program, interview formats, coding practice, and interactive project map" width="680">
+<a href="assets/prep-lab-dark-interview.png">
+  <img src="assets/prep-lab-dark-interview.png" alt="Prep Lab dark interface with daily interviews, mixed interviews, coding, code review, and system design formats" width="680">
 </a>
+
+<details>
+<summary>Project map and mobile interface</summary>
+
+<a href="assets/prep-lab-dark-project-map.png">
+  <img src="assets/prep-lab-dark-project-map.png" alt="Prep Lab interactive project map with connected modules and a selected module inspector, using sample data" width="680">
+</a>
+
+<a href="assets/prep-lab-dark-mobile.png">
+  <img src="assets/prep-lab-dark-mobile.png" alt="Prep Lab mobile interview screen with a compact menu and vertically arranged interview formats" width="300">
+</a>
+
+</details>
 
 Nuxt 4 · Vue 3 · TypeScript · Pinia · SQLite
 
@@ -55,3 +68,4 @@ A local app for projects, tasks, decisions, and weekly or monthly reviews. It ke
 </a>
 
 React · TypeScript · Node.js · Express · SQLite
+
