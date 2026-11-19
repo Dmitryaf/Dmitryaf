@@ -34,15 +34,27 @@ Interview preparation built around your projects and study materials. Create foc
 
 A unified dark interface adapts to desktop and mobile, with shared navigation, search, and reading views for notes and code.
 
-<a href="assets/prep-lab-dark-interview.png">
-  <img src="assets/prep-lab-dark-interview.png" alt="Prep Lab dark interface with daily interviews, mixed interviews, coding, code review, and system design formats" width="680">
+<a href="assets/prep-lab-intensive.png">
+  <img src="assets/prep-lab-intensive.png" alt="Prep Lab focused study program with a Vue question, answer editor, self-assessment, and lesson navigation" width="680">
 </a>
 
 <details>
-<summary>Project map and mobile interface</summary>
+<summary>Interviews, coding practice, project map, code, and mobile interface</summary>
+
+<a href="assets/prep-lab-dark-interview.png">
+  <img src="assets/prep-lab-dark-interview.png" alt="Prep Lab daily interviews and full interview formats: mixed, coding, code review, and system design" width="680">
+</a>
+
+<a href="assets/prep-lab-practice.png">
+  <img src="assets/prep-lab-practice.png" alt="Prep Lab Vue coding exercise with syntax highlighting and related study materials" width="680">
+</a>
 
 <a href="assets/prep-lab-dark-project-map.png">
-  <img src="assets/prep-lab-dark-project-map.png" alt="Prep Lab interactive project map with connected modules and a selected module inspector, using sample data" width="680">
+  <img src="assets/prep-lab-dark-project-map.png" alt="Prep Lab interactive project map with connected modules and a selected module inspector, using synthetic sample data" width="680">
+</a>
+
+<a href="assets/prep-lab-project-code.png">
+  <img src="assets/prep-lab-project-code.png" alt="Prep Lab code reading view with syntax highlighting and line numbers, using a synthetic TypeScript example" width="680">
 </a>
 
 <a href="assets/prep-lab-dark-mobile.png">
