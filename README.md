@@ -30,19 +30,23 @@ React · TypeScript · Node.js · Fastify · SQLite
 
 ### Prep Lab
 
-Interview preparation built around your projects and study materials. Create focused study programs, run mock interviews, practice coding and code review, revisit difficult questions, and explore project architecture through interactive maps. The built-in collection covers frontend, backend, QA, infrastructure, data, and other professional tracks.
+Prep Lab helps you prepare for interviews with focused study plans, short practice sessions, and full mock interviews. The question bank covers 37 tracks across software development, QA, infrastructure, data, and other IT roles.
 
-A unified dark interface adapts to desktop and mobile, with shared navigation, search, and reading views for notes and code.
+Each interview shows the track and topic alongside the question. Write an answer, compare it with the criteria, and revisit difficult questions on a review schedule. Interactive maps connect project scenarios, modules, and code examples.
 
 <a href="assets/prep-lab-intensive.png">
   <img src="assets/prep-lab-intensive.png" alt="Prep Lab focused study program with a Vue question, answer editor, self-assessment, and lesson navigation" width="680">
 </a>
 
 <details>
-<summary>Interviews, coding practice, project map, code, and mobile interface</summary>
+<summary>Interviews, question bank, practice, project views, and mobile</summary>
 
 <a href="assets/prep-lab-dark-interview.png">
-  <img src="assets/prep-lab-dark-interview.png" alt="Prep Lab daily interviews and full interview formats: mixed, coding, code review, and system design" width="680">
+  <img src="assets/prep-lab-dark-interview.png" alt="Prep Lab interview home with the Node.js track, short practice, and full interview formats" width="680">
+</a>
+
+<a href="assets/prep-lab-question-bank.png">
+  <img src="assets/prep-lab-question-bank.png" alt="Prep Lab question bank filtered to Node.js with controls for topic, format, company, and progress" width="680">
 </a>
 
 <a href="assets/prep-lab-practice.png">
@@ -58,7 +62,11 @@ A unified dark interface adapts to desktop and mobile, with shared navigation, s
 </a>
 
 <a href="assets/prep-lab-dark-mobile.png">
-  <img src="assets/prep-lab-dark-mobile.png" alt="Prep Lab mobile interview screen with a compact menu and vertically arranged interview formats" width="300">
+  <img src="assets/prep-lab-dark-mobile.png" alt="Prep Lab mobile interview showing a Node.js question, the answer field, and the review button" width="300">
+</a>
+
+<a href="assets/prep-lab-generation-context.png">
+  <img src="assets/prep-lab-generation-context.png" alt="Prep Lab material picker with search, a selected note, and an option to attach a file" width="680">
 </a>
 
 </details>
